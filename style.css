@@ -1,0 +1,64 @@
+.one{
+    height: 800px;
+    width: 1000px;
+    
+}
+.two{
+    height: 800px;
+    width: 1000px;
+}
+h1{
+    font-size: 100px;
+    margin-left: 120px;
+    margin-bottom: 0px;
+    color: #0866ff;
+}
+h3{
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: 0%;
+}
+.five{
+    height: 370px;
+    width: 400px;
+    background-color: rgb(252, 248, 248);
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px rgb(68, 68, 68);
+   
+}
+input{
+    margin-top: 30px;
+    height: 50px;
+    width: 365px;
+    margin-left: 10px;
+
+}
+.button-1{
+    height: 50px;
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 15px;
+    background-color: #0866ff;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+p{
+
+    margin-left: 150px;
+    margin-top: 15px;
+    color: #0866ff;
+}
+.button-2{
+    background-color: rgb(53, 218, 31);
+    height: 50px;
+    width: 200px;
+    margin-left: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+   border: none;
+} 
+
+
